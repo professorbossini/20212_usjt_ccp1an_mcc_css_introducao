@@ -1,0 +1,98 @@
+div > div#titulo p, div article > p{
+    
+}
+
+
+/* article > #titulo article article div .rotulo > p#subtitulo{
+
+}  */
+
+
+/* main > article section > p.coordenadores{
+
+} */
+
+
+article > p{
+    border: solid 2px black;
+}
+
+body #principal article section p.coordenadores{
+    text-align: center;
+}
+
+
+#principal p.promocao{
+    padding: 12px;
+    border-bottom: #CCC 2px solid;
+}
+
+
+
+article p{
+    padding: 12px;
+}
+
+.coordenadores{
+    background-color: whitesmoke;
+}
+
+/* h1 {
+  color: yellow;
+  text-align: center;
+} */
+
+#titulo{
+    text-align: center;
+    border-bottom: 1px dashed black;
+    color: blueviolet;
+    background-color: lightsalmon;
+}
+
+.nova{
+    color: red;
+}
+
+p#descricao{
+    color: blue;
+    text-align: center;
+}
+
+p.promocao{
+    text-align: center;
+    background-color: yellow;
+}
+
+/* p {
+  color: blue;
+  border: solid 1px black;
+} */
+
+strong {
+  color: blueviolet;
+  background-color: orange;
+}
+
+p#rodape.final-pagina{
+    border-bottom: 1px solid black;
+    background-color: #CCC;
+    padding: 12px;
+    text-align: center;
+}
+
+.novo-curso, .curso{
+    background-color: antiquewhite;
+}
+
+.novo-curso{
+    color: red;
+}
+
+/* .curso{
+    background-color: aliceblue;
+}
+
+.novo-curso{
+    background-color: aliceblue;
+    color: red;
+} */
